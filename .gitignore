@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.qoder-sites/
+.qoder-sites.json
+*.qoder.site
+.qoder/
+screenshots/
+test-results/
+playwright-report/
